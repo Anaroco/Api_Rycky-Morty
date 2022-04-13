@@ -2,7 +2,7 @@
 
 ## Descripción
 ```
-Utilización de una API Rest cuya información será utilzada para crear Cards a través de un template de html. También, se utiliza la propiedad de fragment para evitar el reflujo y se incorpora un "spinnerLoading" para el momento de renderizado en el navegador.
+Utilización de una API Rest cuya información será utilzada para crear Cards a través de un template de Bootstrap.
 ```
 ### Lenguajes utilizados
 ```
